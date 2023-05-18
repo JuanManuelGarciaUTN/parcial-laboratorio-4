@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "parcial-labo-4-8ebb1": {
+      "hosting": {
+        "parcial-laboratorio-4": [
+          "parcial-labo-4-8ebb1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "parcial-labo-4-8ebb1"
+  }
+}
